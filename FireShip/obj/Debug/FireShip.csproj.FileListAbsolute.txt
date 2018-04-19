@@ -1,0 +1,6 @@
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\bin\Debug\FireShip.exe.config
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\bin\Debug\FireShip.exe
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\bin\Debug\FireShip.pdb
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\obj\Debug\FireShip.exe
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\obj\Debug\FireShip.pdb
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\obj\Debug\FireShip.csprojResolveAssemblyReference.cache

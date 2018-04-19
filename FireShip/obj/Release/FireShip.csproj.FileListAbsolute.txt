@@ -1,0 +1,5 @@
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\bin\Release\FireShip.exe.config
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\bin\Release\FireShip.exe
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\bin\Release\FireShip.pdb
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\obj\Release\FireShip.exe
+H:\Studia\sem5\KCK\Projekt1\FireShip\FireShip\obj\Release\FireShip.pdb
